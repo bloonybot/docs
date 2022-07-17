@@ -42,7 +42,7 @@ Permissions required in role settings, `Administrator` and Server Owner override
 
 ## Examples
 
-- `,removedata`
+*`None`*
 
 ## Subcommands
 
