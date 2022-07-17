@@ -32,7 +32,15 @@ and so much more!
 
 and so much more!
 
+## Vote for Bloony
+
+Upvote Bloony on Top.gg and Discord Bot List, don't forget to leave a review!
+
+- [Top.gg](https://top.gg/bot/826343609824575504/vote)
+- [Discord Bot List](https://discordbotlist.com/bots/bloony/upvote)
+
 ## Contact Support
+
 If you have any questions about this documentation, you can contact us in
 
 - [Discord Support Server](https://discord.gg/uudpr3vmw8)
