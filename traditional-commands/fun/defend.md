@@ -38,9 +38,9 @@ Permissions required in role settings, `Administrator` and Server Owner override
 - Bot: `Manage Roles`
 - User: *`None`*
 
-## Example
+## Examples
 
-`,defend`
+- `,defend`
 
 ## Subcommands
 
