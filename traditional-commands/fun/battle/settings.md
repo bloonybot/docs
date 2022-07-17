@@ -29,7 +29,7 @@ Permissions required in a channel, channel permission overwrites are included, `
 - Bot: *`None`*
 - User: `Administrator`
 
-> `View Channel`, `Read Message History` and `Embed Links` are required for bot by default, `Send Messages` (Text Channel) or `SEND_MESSAGES_IN_THREADS` (Thread) or `Send Messages` and `Connect` (Voice Channel) are required for both bot and user by default.
+> `View Channel`, `Read Message History` and `Embed Links` are required for bot by default, `Send Messages` (Text Channel) or `Send Messages In Threads` (Thread) or `Send Messages` and `Connect` (Voice Channel) are required for both bot and user by default.
 
 ## Default Permissions
 
