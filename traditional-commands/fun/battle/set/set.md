@@ -40,7 +40,7 @@ Permissions required in role settings, `Administrator` and Server Owner override
 - Bot: *`None`*
 - User: *`None`*
 
-## Example
+## Examples
 
 *`None`*
 
