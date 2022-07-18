@@ -23,6 +23,7 @@ Set the required roles for creating auto response.
 - Type: [RoleResolvable](/typedefs/RoleResolvable.md)...
 - Optional: `false`
 - Default: *`None`*
+- Max: 10 [RoleResolvable](/typedefs/RoleResolvable.md)s | 300 characters
 
 ###### custom_trigger
 
