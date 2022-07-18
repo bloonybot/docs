@@ -1,4 +1,4 @@
-# ChannelResolvable
+# RoleResolvable
 
 Data that can be resolved to a role. This can be:
 
