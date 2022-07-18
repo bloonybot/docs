@@ -39,6 +39,12 @@ Upvote Bloony on Top.gg and Discord Bot List, don't forget to leave a review!
 - [Top.gg](https://top.gg/bot/826343609824575504/vote)
 - [Discord Bot List](https://discordbotlist.com/bots/bloony/upvote)
 
+## Community Server
+
+Explore our friendly community!
+
+- [Bloony Community](https://discord.gg/EAPFHr2s7M)
+
 ## Contact Support
 
 If you have any questions about this documentation, you can contact us in
@@ -46,6 +52,8 @@ If you have any questions about this documentation, you can contact us in
 - [Discord Support Server](https://discord.gg/uudpr3vmw8)
 
 ## Developer
+
+A special thanks to Bloonat!cS.♡#7767 for creating *everything*.
 
 - [Bloonat!cS.♡#7767](https://discord.com/users/676103178323886085)
 
