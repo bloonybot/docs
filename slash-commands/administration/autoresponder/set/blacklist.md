@@ -23,6 +23,7 @@ Set the auto responder blacklisted channels.
 - Type: [ChannelResolvable](/typedefs/ChannelResolvable.md)...
 - Optional: `false`
 - Default: *`None`*
+- Max: 20 [ChannelResolvable](/typedefs/ChannelResolvable.md)s | 500 characters
 
 ## Cooldown
 
