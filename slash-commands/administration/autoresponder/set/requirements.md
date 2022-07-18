@@ -53,7 +53,7 @@ Permissions required in role settings, `Administrator` and Server Owner override
 ## Examples
 
 - `/autoresponder set requirements action: Add roles: 827910959871164486`
-- `/autoresponder set requirements action: Overwrite roles: 827910959871164486 <@&740194908932931625> custom_trigger: True`
+- `/autoresponder set requirements action: Overwrite roles: 827910959871164486 <@&740194908932931625> custom_trigger: true`
 
 ## Subcommands
 
