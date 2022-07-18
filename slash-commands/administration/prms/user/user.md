@@ -25,7 +25,7 @@ Can be used 1 time per 20 seconds, per user.
 Permissions required in a channel, channel permission overwrites are included, `Administrator` and Server Owner override this requirement.
 
 - Bot: *`None`*
-- User: `Administrator`
+- User: *`None`*
 
 > `View Channel`, `Read Message History` and `Embed Links` are required for bot by default, `Send Messages` (Text Channel) or `Send Messages In Threads` (Thread) or `Send Messages` and `Connect` (Voice Channel) are required for both bot and user by default.
 
