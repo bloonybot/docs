@@ -16,7 +16,7 @@ Reviews role obtainment requests.
 
 ## Cooldown
 
-Can be used 1 time per 30 seconds, per user.
+Can be used 1 time per 30 seconds, per server.
 
 ## Channel Permissions
 
