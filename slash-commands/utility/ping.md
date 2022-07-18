@@ -36,7 +36,7 @@ Permissions required in role settings, `Administrator` and Server Owner override
 
 ## Examples
 
-*`None`*
+- `/ping`
 
 ## Subcommands
 
