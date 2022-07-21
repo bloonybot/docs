@@ -2,7 +2,7 @@
 
 ## Description
 
-Shows more details of advanced systems in this application.
+Read the documentation and learn more about me.
 
 ## Syntax
 
