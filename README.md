@@ -5,9 +5,9 @@
   </p>
   <br />
   <p>
-    <a href="https://discord.com/api/oauth2/authorize?client_id=826343609824575504&scope=bot+applications.commands&permissions=1644905884927"><img src="/assets/inviteButton.png" width="150" alt="inviteButton" /></a>
-    <a href="https://discord.gg/uudpr3vmw8"><img src="/assets/supportServerButton.png" width="150" alt="supportServerButton" /></a>
-    <a href="https://discord.gg/EAPFHr2s7M"><img src="/assets/communityServerButton.png" width="150" alt="communityServerButton" /></a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=826343609824575504&scope=bot+applications.commands&permissions=1644905884927"><img src="/assets/inviteButton.png" width="175" alt="inviteButton" /></a>
+    <a href="https://discord.gg/uudpr3vmw8"><img src="/assets/supportServerButton.png" width="175" alt="supportServerButton" /></a>
+    <a href="https://discord.gg/EAPFHr2s7M"><img src="/assets/communityServerButton.png" width="175" alt="communityServerButton" /></a>
   </p>
 </div>
 
