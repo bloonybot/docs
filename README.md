@@ -1,12 +1,13 @@
 <div align="center">
   <br />
-	<p>
-		<a href="https://discord.com/application-directory/826343609824575504"><img src="/assets/mainLogo.png" width="450" alt="mainLogo" /></a>
-	</p>
-	<br />
   <p>
-    <a href="https://discord.com/api/oauth2/authorize?client_id=826343609824575504&scope=bot+applications.commands&permissions=1644905884927"><img src="/assets/inviteButton.png" width="200" alt="inviteButton" /></a>
-    <a href="https://discord.gg/uudpr3vmw8"><img src="/assets/supportServerButton.png" width="200" alt="supportServerButton" /></a>
+    <a href="https://discord.com/application-directory/826343609824575504"><img src="/assets/mainLogo.png" width="450" alt="mainLogo" /></a>
+  </p>
+  <br />
+  <p>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=826343609824575504&scope=bot+applications.commands&permissions=1644905884927"><img src="/assets/inviteButton.png" width="150" alt="inviteButton" /></a>
+    <a href="https://discord.gg/uudpr3vmw8"><img src="/assets/supportServerButton.png" width="150" alt="supportServerButton" /></a>
+    <a href="https://discord.gg/EAPFHr2s7M"><img src="/assets/communityServerButton.png" width="150" alt="communityServerButton" /></a>
   </p>
 </div>
 
@@ -79,7 +80,7 @@ A special thanks to Bloonat!cS.♡#7767 for creating *everything*.
 [bloonatics]: https://discord.com/users/676103178323886085
 [discord-bot-docs]: https://discord.com/developers/docs/topics/oauth2#bots
 [discord-bot-list]: https://discordbotlist.com/bots/bloony/upvote
-[high5]: https://discord.gg/high5
-[danksky]: https://discord.gg/danksky
+[high5]: https://discord.gg/qDQ2W7Y8xy
+[danksky]: https://discord.gg/5B9sjy8FsC
 [terms-of-service]: https://gist.github.com/Bloonatics/c4a4fab9564bf1ce974788288b46a2b1
 [privacy-policy]: https://gist.github.com/Bloonatics/6e5a24a386287eaa916c9d586365e4a2
