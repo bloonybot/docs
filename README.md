@@ -13,6 +13,17 @@
 
 # Bloony Documentation
 
+## Navigation
+
+What should I read here?
+
+- [ ] [assets](/assets) Assets of this documentation, no need to read.
+- [x] [slash-commands](/slash-commands) See what slash commands you can run.
+- [x] [topics](/topics) Introduction of main features.
+- [x] [traditional-commands](/traditional-commands) See what traditional commands you can run.
+- [x] [typedefs](/typedefs) Command argument type definitions.
+- [x] [README.md](/README.md) You are currently reading it.
+
 ## About
 
 Bloony is a multi-purpose [Discord bot][discord-bot-docs] with info, fun, utility, moderation and server management. Project aims to implement automation in community servers and significantly improve your Discord experience. If you are looking for a bot to help you to manage your server, getting server info conveniently or just wanna have fun with your members, consider inviting Bloony.
@@ -29,6 +40,17 @@ Bloony is a multi-purpose [Discord bot][discord-bot-docs] with info, fun, utilit
 Click [here][bloony-invite] to invite Bloony to your server!
 
 ## Features
+
+<div align="center">
+  <p>
+    <a href="/topics/autoresponder.md"><img src="/assets/autoresponderTopicButton.png" width="100" alt="autoresponderTopicButton" /></a>
+    <a href="/topics/battle.md"><img src="/assets/battleTopicButton.png" width="100" alt="battleTopicButton" /></a>
+    <a href="/topics/command.md"><img src="/assets/commandTopicButton.png" width="100" alt="commandTopicButton" /></a>
+    <a href="/topics/csms.md"><img src="/assets/csmsTopicButton.png" width="100" alt="csmsTopicButton" /></a>
+    <a href="/topics/pcms.md"><img src="/assets/pcmsTopicButton.png" width="100" alt="pcmsTopicButton" /></a>
+    <a href="/topics/prms.md"><img src="/assets/prmsTopicButton.png" width="100" alt="prmsTopicButton" /></a>
+  </p>
+</div>
 
 - Advanced personal channel, role, auto response management.
 - Customisable synchronised moderation system, build your own report handling system.
@@ -73,6 +95,8 @@ A special thanks to Bloonat!cS.♡#7767 for creating *everything*.
 
 - [Terms of Service][terms-of-service]
 - [Privacy Policy][privacy-policy]
+
+© 2022 Bloonatics. All Rights Reserved.
 
 [bloony-invite]: https://discord.com/api/oauth2/authorize?client_id=826343609824575504&scope=bot+applications.commands&permissions=1644905884927
 [support-server]: https://discord.gg/uudpr3vmw8
